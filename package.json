@@ -1,0 +1,24 @@
+{
+  "name": "automacao_blog_agi",
+  "version": "1.0.0",
+  "description": "Automação Blog Agi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "run": "cypress run --reporter"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adriano1lp/automacao_blog_agi.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adriano1lp/automacao_blog_agi/issues"
+  },
+  "homepage": "https://github.com/Adriano1lp/automacao_blog_agi#readme",
+  "dependencies": {
+    "cypress": "^12.17.1",
+    "mochawesome": "^7.1.3"
+  }
+}

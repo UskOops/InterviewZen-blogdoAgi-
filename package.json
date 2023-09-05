@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Adriano1lp/automacao_blog_agi.git"
+    "url": "git+https://github.com/UskOops/InterviewZen-blogdoAgi-.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Adriano1lp/automacao_blog_agi/issues"
+    "url": "https://github.com/UskOops/InterviewZen-blogdoAgi-.git"
   },
-  "homepage": "https://github.com/Adriano1lp/automacao_blog_agi#readme",
+  "homepage": "https://github.com/UskOops/InterviewZen-blogdoAgi-.git",
   "dependencies": {
     "cypress": "^12.17.1",
     "mochawesome": "^7.1.3"

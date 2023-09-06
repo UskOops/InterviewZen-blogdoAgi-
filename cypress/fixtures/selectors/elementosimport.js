@@ -1,4 +1,4 @@
-
+//arquivo de onde é importado os seletores HTML
 const elementos = {
   bt_search: '#search-open',
   input_search: '#masthead > div.site-header-content > div.desktop-search > form > label > input',

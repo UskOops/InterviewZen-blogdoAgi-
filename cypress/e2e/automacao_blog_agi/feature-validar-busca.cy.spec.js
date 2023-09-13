@@ -1,5 +1,5 @@
 // busca.spec.js
-import elementos from './elementos'; // Importe os seletores de elementos
+import elementos from './elementosimport.js'; // Importe os seletores de elementos
 
 describe('Busca na página Home', () => {
   context('Validar busca na página home', () => {
